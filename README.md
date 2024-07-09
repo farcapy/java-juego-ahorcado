@@ -9,4 +9,5 @@ Hice un juego de ahorcado en JAVA donde uno debe ir colocando letra a letra en l
 5. Clase String y métodos (valueOf, lenght, charAt)
 6. Clase Character y su metodo toLowerCase
 7. Estructura de control condicional (if)
-[Link al canal de SergiCode](https://www.youtube.com/@sergicode)
+
+[Canal de SergiCode](https://www.youtube.com/@sergicode)
