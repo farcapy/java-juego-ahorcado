@@ -41,7 +41,7 @@ public class Ahorcado {
         }
 
         if(!adivinado){
-            System.out.println("Te has quedado sin intentos!");
+            System.out.println("¡Te has quedado sin intentos!");
         }
 
         scanner.close();
